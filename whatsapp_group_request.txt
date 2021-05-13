@@ -1,0 +1,103 @@
+[en]
+ENTER_NUM =  !nEnter Your !tWhatsapp Number.
+ENTER_NEW_NUM = !nEnter Your !gNew !tWhatsapp Number.
+DENIED =  !nYou !tdenied !njoining our !tWhatsapp Group!
+WRONG_NUM =  !nNoob, A !gMobile Number !nis of !g(+Country Code)!t 10 Digits Only!
+NUM_ADDED_MSG_PLAYER = !gThank You! !nYou will be !gadded !nto our !twhatsapp group !gASAP.
+NUM_ADDED_MSG_ALL1 = !t%s !nhas !grequested !nto !gjoin !nour !tOfficial Whatsapp Group.
+NUM_ADDED_MSG_ALL2 = !nType !g/whatsapp !nif you want to !gJoin Group !ntoo.
+NUM_UPDATED_MSG_PLAYER = !nYour !grequested number !nhas been !gsuccessfully !tupdated!
+MSGC_FILE_NOT_EXIST = Whoops! File does not exist.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_VIEWREQUESTS = ^t                         WHATSAPP GROUP REQUESTS^n
+VIEW_REQUESTS = !nCheck your !tconsole !nfor !ginformation!
+MSG_FILE_NOT_EXIST = !nWhoops! !gRequests File !twasn't !gfound.
+CONFIRM_DLT_YES = !nWhatsapp Group Join !gRequests !nwas successfully !tdeleted!
+CONFIRM_DLT_NO = !nWhatsapp Group Join !gRequests !tisn't deleted!
+
+[es]
+ENTER_NUM =  !nIngresa tu numero de !tWhatsapp.
+DENIED =  !nTe !tnegaste !na unir a nuestro !tgrupo de Whatsapp!
+WRONG_NUM =  !nNoob, Un !gNumero de celular !nes de !g(+Country Code)!t 10 digitos solamente!
+NUM_ADDED_MSG_PLAYER = !gGracias! !nseras !gagregado !na nuestro !tgrupo de Whatsapp !glo antes posible.
+NUM_ADDED_MSG_ALL1 = !t%s !nha !gpedido !gunirse !na nuestro !tGrupo oficial de Whatsapp.
+NUM_ADDED_MSG_ALL2 = !nEscribe !g/whatsapp !nsi quieres !gunirte al grupo !ntambien.
+MSGC_ACCESS_DENIED = Lo siento! solo podemos compartir esto con ADMINS.
+MSGC_FILE_NOT_EXIST = Whoops! El archivo no existe.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_VIEWREQUESTS = ^t                        PEDIDOS DE GRUPO DE WHATSAPP
+
+[bp]
+ENTER_NUM =  !nDigite o seu !tNumero de Whatsapp.
+DENIED =  !nVoce !trecusou !nentrar no nosso !tGrupo de Whatsapp!
+WRONG_NUM =  !nNoob, !gO numero de telefone !ncontem 10 digitos apenas !g(+Codigo do Pais)!
+NUM_ADDED_MSG_PLAYER = !gMuito Obrigado! !nVoce sera !gadicionado !nem nosso !tgrupo de whatsapp !gem breve.
+NUM_ADDED_MSG_ALL1 = !t%s !nSolicitou !gpara ser !nadicionado no !tGrupo Oficial do Whatsapp.
+NUM_ADDED_MSG_ALL2 = !nDigite !g/whatsapp !nse quiser !gentrar no Grupo !ntambem.
+MSGC_ACCESS_DENIED = Desculpe! somente ADMINs pode ver isso.
+MSGC_FILE_NOT_EXIST = Whoops! Arquivo nao existe.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_VIEWREQUESTS = ^t                        SOLICITACAO GRUPO DE WHATSAPP
+
+[ro]
+ENTER_NUM =  !nIntroduceti numarul de !tWhatsapp.
+DENIED =  !nAi !trefuzat !nsa te alaturi grupului nostru de !tWhatsapp!
+WRONG_NUM =  !nNoob, un numar de !gtelefon mobil !neste de !g(+cod de tara)!t 10 cifre numai!
+NUM_ADDED_MSG_PLAYER = !gMultumesc! !nVei fi !gadaugat !nin grupul nostru de !twhatsapp !gASAP.
+NUM_ADDED_MSG_ALL1 = !t% !na !gsolicitat sa se !galature grupului !nnostru !toficial Whatsapp.
+NUM_ADDED_MSG_ALL2 = !nScrie !g/whatsapp !ndaca doresti sa te !galaturi si tu !ngrupului.
+MSGC_ACCESS_DENIED = Ne pare rau! Putem impartasi acest lucru doar Adminilor
+MSGC_FILE_NOT_EXIST = Hopa! Fisierul nu exista.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_VIEWREQUESTS = ^t                       CERERILE GRUPULUI WHATSAPP
+
+[tr]
+ENTER_NUM =  !tWhatsapp Numarani !nGir.
+ENTER_NEW_NUM = !gYeni !tWhatsapp Numarani !nGir.
+DENIED = !tWhatsapp Grubumuza !ngirmeyi !treddettin!
+WRONG_NUM = !nEzik, bir !gMobil Numara !n !g(+Ulke Kodu)!t Sadece 10 Basamaklidir!
+NUM_ADDED_MSG_PLAYER =!gTesekkurler ! !tWhatsapp Grubumuza !nekleneceksin!
+NUM_ADDED_MSG_ALL1 = !g%s !tResmi Whatsapp Grubumuza !nkatilmak istedi.
+NUM_ADDED_MSG_ALL2 = !nSen de !gGrubumuza Katilmak icin !t/whatsapp !nyazabilirsin!
+NUM_UPDATED_MSG_PLAYER = !gIstedigin numara basariyla !nguncellendi!
+MSGC_FILE_NOT_EXIST = Hoppala! Dosya yok.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_AMX_VIEWREQUESTS = ^t                        WHATSAPP GRUP ISTEKLERI^n
+VIEW_REQUESTS = !gBilgi !nicin !tkonsolunu !kontrol et!
+MSG_FILE_NOT_EXIST = !nHoppala! !gIstenilen Dosya !tbulunamadi.
+CONFIRM_DLT_YES = !nWhatsapp Grup Katilim !gIstekleri !nbasariyla !tsilindi!
+CONFIRM_DLT_NO = !nWhatsapp Grup Katilim !gIstekleri !nsilinmedi!
+
+[mk]
+ENTER_NUM =  !nVnesete go Vashiot!tWhatsapp broj.
+ENTER_NEW_NUM = !nVnesete go Vashiot !gnov !tWhatsapp broj.
+DENIED =  !nVie !todbivte !nda se prikluchite vo nashata !tWhatsapp grupa!
+WRONG_NUM =  !nNoob, !gtelefonski broj !nse sostoi od samo !g(+kod na drzhava) !t10 cifri!
+NUM_ADDED_MSG_PLAYER = !gVi blagodarime! !nKje bidete !gdodadeni !nvo nashata !tWhatsapp grupa !gnaskoro.
+NUM_ADDED_MSG_ALL1 = !t%s !gpobara !nda se !gprikluchi !nvo nashata !toficijalna Whatsapp grupa.
+NUM_ADDED_MSG_ALL2 = !nNapishete !g/whatsapp !nako sakate da se !gprikluchite vo grupata!n.
+NUM_UPDATED_MSG_PLAYER = !nVashiot !gtelefonski broj !ne !guspeshno !tpromenet!
+MSGC_FILE_NOT_EXIST = Ups! Fajlot ne postoi.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_AMX_VIEWREQUESTS = ^t                        WHATSAPP BARANJA^n
+VIEW_REQUESTS = !nProverete ja vashata !tkonzola !nza !ginformacija!
+MSG_FILE_NOT_EXIST = !nUps! !gFajlot za baranja !tne e !gpronajden.
+CONFIRM_DLT_YES = !nWhatsapp !gbaranjeto !ne uspeshno !tizbrishano!
+CONFIRM_DLT_NO = !nWhatsapp !gbaranjeto !tne e izbrishano!
+
+[bp]
+ENTER_NUM =  !nDigite o numero do seu !tWhatsapp.
+ENTER_NEW_NUM = !nDigite o !gnovo !tnumero !ndo seu !tWhatsapp.
+DENIED =  !nSeu pedido de participar do nosso grupo de !tWhatsapp !nfoi !tnegado!
+WRONG_NUM =  !nNoob, um !gnumero de telefone !ne de !g(+Codigo do pais) !tapenas 10 digitos!
+NUM_ADDED_MSG_PLAYER = !gObrigado! !nVoce vai ser !gadicionado !nno nosso !tGrupo de whatsapp !gassim que possivel.
+NUM_ADDED_MSG_ALL1 = !t%s !nfez o !gpedido !npara !gjparticipar !ndo nosso !tGrupo Oficial de Whatsapp.
+NUM_ADDED_MSG_ALL2 = !nDigite !g/whatsapp !nse voce quiser !gparticipar do grupo !ntambem.
+NUM_UPDATED_MSG_PLAYER = !nSeu !gnumero registrado !nfoi !tatualizado !ncom !gsucesso!
+MSGC_FILE_NOT_EXIST = Oops! Este arquivo nao existe.^n
+MSGC_EXTENDER = ----------------------------------------------------------------------^n
+MSGC_AMX_VIEWREQUESTS = ^t                        PEDIDOS DO GRUPO DE WHATSAPP^n
+VIEW_REQUESTS = !nVerifique seu !tconsole !npara mais !ginformacoes!
+MSG_FILE_NOT_EXIST = !nOops! !gO arquivo de pedidos !tnao foi !gencontrado.
+CONFIRM_DLT_YES = !nOs !gpedidos !npara participar do grupo de Whatsapp foram !tdeletados !ncom sucesso!
+CONFIRM_DLT_NO = !nOs !gpedidos !npara participar do grupo de Whatsapp nao foram !tdeletados!
